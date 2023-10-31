@@ -52,7 +52,7 @@ section::before {
 }
 
 .about::before {
-    content: 'About';
+    content: 'Informasi Produk';
 }
 
 .about-exp-item {
@@ -133,7 +133,7 @@ section::before {
 }
 
 .contact::before {
-    content: 'Contact';
+    content: 'Hubungi Kami';
 }
 
 .contact-form {
